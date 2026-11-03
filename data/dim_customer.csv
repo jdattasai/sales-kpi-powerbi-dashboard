@@ -1,0 +1,181 @@
+CustomerID,CustomerName,Segment,Province,City,Country
+C001,Customer 001,Consumer,Saskatchewan,Regina,Canada
+C002,Customer 002,Home Office,Ontario,Toronto,Canada
+C003,Customer 003,Consumer,Quebec,Quebec City,Canada
+C004,Customer 004,Consumer,Quebec,Montreal,Canada
+C005,Customer 005,Consumer,Nova Scotia,Halifax,Canada
+C006,Customer 006,Home Office,Saskatchewan,Regina,Canada
+C007,Customer 007,Consumer,Alberta,Edmonton,Canada
+C008,Customer 008,Corporate,Manitoba,Winnipeg,Canada
+C009,Customer 009,Consumer,Ontario,Toronto,Canada
+C010,Customer 010,Consumer,Ontario,Ottawa,Canada
+C011,Customer 011,Home Office,Quebec,Montreal,Canada
+C012,Customer 012,Consumer,Manitoba,Winnipeg,Canada
+C013,Customer 013,Consumer,Alberta,Edmonton,Canada
+C014,Customer 014,Home Office,Nova Scotia,Halifax,Canada
+C015,Customer 015,Home Office,Nova Scotia,Halifax,Canada
+C016,Customer 016,Consumer,British Columbia,Victoria,Canada
+C017,Customer 017,Home Office,Alberta,Calgary,Canada
+C018,Customer 018,Consumer,Quebec,Quebec City,Canada
+C019,Customer 019,Home Office,Ontario,Mississauga,Canada
+C020,Customer 020,Corporate,British Columbia,Victoria,Canada
+C021,Customer 021,Consumer,Quebec,Quebec City,Canada
+C022,Customer 022,Corporate,Quebec,Montreal,Canada
+C023,Customer 023,Consumer,Ontario,Ottawa,Canada
+C024,Customer 024,Consumer,British Columbia,Victoria,Canada
+C025,Customer 025,Corporate,British Columbia,Vancouver,Canada
+C026,Customer 026,Corporate,Manitoba,Winnipeg,Canada
+C027,Customer 027,Home Office,Ontario,Toronto,Canada
+C028,Customer 028,Home Office,Alberta,Calgary,Canada
+C029,Customer 029,Corporate,Ontario,Ottawa,Canada
+C030,Customer 030,Home Office,Ontario,Ottawa,Canada
+C031,Customer 031,Home Office,Quebec,Quebec City,Canada
+C032,Customer 032,Corporate,Manitoba,Winnipeg,Canada
+C033,Customer 033,Consumer,Manitoba,Winnipeg,Canada
+C034,Customer 034,Consumer,Nova Scotia,Halifax,Canada
+C035,Customer 035,Home Office,Ontario,Toronto,Canada
+C036,Customer 036,Corporate,Quebec,Montreal,Canada
+C037,Customer 037,Consumer,Ontario,Ottawa,Canada
+C038,Customer 038,Corporate,Ontario,Ottawa,Canada
+C039,Customer 039,Corporate,Quebec,Quebec City,Canada
+C040,Customer 040,Corporate,Saskatchewan,Regina,Canada
+C041,Customer 041,Corporate,Ontario,Mississauga,Canada
+C042,Customer 042,Consumer,British Columbia,Vancouver,Canada
+C043,Customer 043,Corporate,Saskatchewan,Regina,Canada
+C044,Customer 044,Home Office,Nova Scotia,Halifax,Canada
+C045,Customer 045,Consumer,Saskatchewan,Regina,Canada
+C046,Customer 046,Home Office,Manitoba,Winnipeg,Canada
+C047,Customer 047,Home Office,Ontario,Mississauga,Canada
+C048,Customer 048,Consumer,Nova Scotia,Halifax,Canada
+C049,Customer 049,Corporate,Ontario,Mississauga,Canada
+C050,Customer 050,Corporate,British Columbia,Victoria,Canada
+C051,Customer 051,Home Office,Saskatchewan,Regina,Canada
+C052,Customer 052,Consumer,Alberta,Edmonton,Canada
+C053,Customer 053,Corporate,Saskatchewan,Regina,Canada
+C054,Customer 054,Consumer,Ontario,Toronto,Canada
+C055,Customer 055,Corporate,Ontario,Toronto,Canada
+C056,Customer 056,Corporate,British Columbia,Victoria,Canada
+C057,Customer 057,Consumer,Ontario,Ottawa,Canada
+C058,Customer 058,Home Office,Manitoba,Winnipeg,Canada
+C059,Customer 059,Consumer,British Columbia,Vancouver,Canada
+C060,Customer 060,Corporate,Saskatchewan,Regina,Canada
+C061,Customer 061,Home Office,British Columbia,Victoria,Canada
+C062,Customer 062,Consumer,Alberta,Calgary,Canada
+C063,Customer 063,Consumer,Quebec,Quebec City,Canada
+C064,Customer 064,Home Office,Quebec,Montreal,Canada
+C065,Customer 065,Home Office,Alberta,Edmonton,Canada
+C066,Customer 066,Home Office,Quebec,Quebec City,Canada
+C067,Customer 067,Corporate,Manitoba,Winnipeg,Canada
+C068,Customer 068,Corporate,Manitoba,Winnipeg,Canada
+C069,Customer 069,Consumer,British Columbia,Vancouver,Canada
+C070,Customer 070,Home Office,Ontario,Mississauga,Canada
+C071,Customer 071,Consumer,Alberta,Calgary,Canada
+C072,Customer 072,Consumer,Ontario,Toronto,Canada
+C073,Customer 073,Home Office,Ontario,Mississauga,Canada
+C074,Customer 074,Home Office,Ontario,Mississauga,Canada
+C075,Customer 075,Home Office,British Columbia,Victoria,Canada
+C076,Customer 076,Corporate,Ontario,Ottawa,Canada
+C077,Customer 077,Home Office,British Columbia,Victoria,Canada
+C078,Customer 078,Home Office,Alberta,Calgary,Canada
+C079,Customer 079,Home Office,Quebec,Quebec City,Canada
+C080,Customer 080,Home Office,Ontario,Toronto,Canada
+C081,Customer 081,Consumer,Nova Scotia,Halifax,Canada
+C082,Customer 082,Home Office,Saskatchewan,Regina,Canada
+C083,Customer 083,Home Office,Quebec,Quebec City,Canada
+C084,Customer 084,Consumer,British Columbia,Vancouver,Canada
+C085,Customer 085,Corporate,Quebec,Quebec City,Canada
+C086,Customer 086,Corporate,Ontario,Mississauga,Canada
+C087,Customer 087,Home Office,Ontario,Toronto,Canada
+C088,Customer 088,Corporate,Nova Scotia,Halifax,Canada
+C089,Customer 089,Consumer,Alberta,Edmonton,Canada
+C090,Customer 090,Consumer,Alberta,Edmonton,Canada
+C091,Customer 091,Corporate,Saskatchewan,Regina,Canada
+C092,Customer 092,Home Office,Saskatchewan,Regina,Canada
+C093,Customer 093,Consumer,Manitoba,Winnipeg,Canada
+C094,Customer 094,Corporate,Ontario,Mississauga,Canada
+C095,Customer 095,Home Office,Ontario,Mississauga,Canada
+C096,Customer 096,Consumer,Alberta,Edmonton,Canada
+C097,Customer 097,Corporate,Manitoba,Winnipeg,Canada
+C098,Customer 098,Consumer,Alberta,Calgary,Canada
+C099,Customer 099,Corporate,Ontario,Ottawa,Canada
+C100,Customer 100,Consumer,Quebec,Quebec City,Canada
+C101,Customer 101,Consumer,Ontario,Toronto,Canada
+C102,Customer 102,Consumer,Manitoba,Winnipeg,Canada
+C103,Customer 103,Home Office,Ontario,Ottawa,Canada
+C104,Customer 104,Consumer,Alberta,Calgary,Canada
+C105,Customer 105,Consumer,Alberta,Edmonton,Canada
+C106,Customer 106,Home Office,Ontario,Mississauga,Canada
+C107,Customer 107,Home Office,Alberta,Calgary,Canada
+C108,Customer 108,Corporate,Ontario,Mississauga,Canada
+C109,Customer 109,Home Office,Alberta,Edmonton,Canada
+C110,Customer 110,Consumer,British Columbia,Victoria,Canada
+C111,Customer 111,Home Office,Alberta,Edmonton,Canada
+C112,Customer 112,Consumer,Nova Scotia,Halifax,Canada
+C113,Customer 113,Corporate,Nova Scotia,Halifax,Canada
+C114,Customer 114,Home Office,British Columbia,Victoria,Canada
+C115,Customer 115,Corporate,Saskatchewan,Regina,Canada
+C116,Customer 116,Home Office,Alberta,Calgary,Canada
+C117,Customer 117,Consumer,Alberta,Calgary,Canada
+C118,Customer 118,Consumer,Quebec,Montreal,Canada
+C119,Customer 119,Corporate,Ontario,Ottawa,Canada
+C120,Customer 120,Home Office,Ontario,Toronto,Canada
+C121,Customer 121,Consumer,Alberta,Edmonton,Canada
+C122,Customer 122,Consumer,Manitoba,Winnipeg,Canada
+C123,Customer 123,Consumer,Ontario,Toronto,Canada
+C124,Customer 124,Home Office,Nova Scotia,Halifax,Canada
+C125,Customer 125,Consumer,Ontario,Toronto,Canada
+C126,Customer 126,Consumer,Ontario,Ottawa,Canada
+C127,Customer 127,Consumer,British Columbia,Vancouver,Canada
+C128,Customer 128,Consumer,Alberta,Edmonton,Canada
+C129,Customer 129,Home Office,Quebec,Quebec City,Canada
+C130,Customer 130,Consumer,Alberta,Calgary,Canada
+C131,Customer 131,Consumer,Alberta,Edmonton,Canada
+C132,Customer 132,Home Office,Nova Scotia,Halifax,Canada
+C133,Customer 133,Corporate,Manitoba,Winnipeg,Canada
+C134,Customer 134,Corporate,Quebec,Montreal,Canada
+C135,Customer 135,Consumer,British Columbia,Victoria,Canada
+C136,Customer 136,Consumer,Ontario,Ottawa,Canada
+C137,Customer 137,Corporate,Saskatchewan,Regina,Canada
+C138,Customer 138,Corporate,British Columbia,Vancouver,Canada
+C139,Customer 139,Corporate,British Columbia,Victoria,Canada
+C140,Customer 140,Consumer,Nova Scotia,Halifax,Canada
+C141,Customer 141,Home Office,Saskatchewan,Regina,Canada
+C142,Customer 142,Consumer,Saskatchewan,Regina,Canada
+C143,Customer 143,Corporate,Ontario,Toronto,Canada
+C144,Customer 144,Corporate,Nova Scotia,Halifax,Canada
+C145,Customer 145,Consumer,Ontario,Ottawa,Canada
+C146,Customer 146,Consumer,Quebec,Montreal,Canada
+C147,Customer 147,Corporate,Alberta,Edmonton,Canada
+C148,Customer 148,Corporate,Ontario,Mississauga,Canada
+C149,Customer 149,Corporate,Ontario,Mississauga,Canada
+C150,Customer 150,Consumer,Alberta,Calgary,Canada
+C151,Customer 151,Corporate,Ontario,Ottawa,Canada
+C152,Customer 152,Consumer,Alberta,Edmonton,Canada
+C153,Customer 153,Home Office,Ontario,Toronto,Canada
+C154,Customer 154,Consumer,Alberta,Edmonton,Canada
+C155,Customer 155,Consumer,Ontario,Ottawa,Canada
+C156,Customer 156,Corporate,Ontario,Mississauga,Canada
+C157,Customer 157,Corporate,Alberta,Calgary,Canada
+C158,Customer 158,Corporate,Quebec,Montreal,Canada
+C159,Customer 159,Consumer,Ontario,Toronto,Canada
+C160,Customer 160,Consumer,British Columbia,Victoria,Canada
+C161,Customer 161,Corporate,British Columbia,Victoria,Canada
+C162,Customer 162,Corporate,Alberta,Calgary,Canada
+C163,Customer 163,Home Office,British Columbia,Victoria,Canada
+C164,Customer 164,Home Office,Nova Scotia,Halifax,Canada
+C165,Customer 165,Home Office,Saskatchewan,Regina,Canada
+C166,Customer 166,Consumer,Alberta,Calgary,Canada
+C167,Customer 167,Corporate,Quebec,Montreal,Canada
+C168,Customer 168,Consumer,Quebec,Montreal,Canada
+C169,Customer 169,Home Office,Manitoba,Winnipeg,Canada
+C170,Customer 170,Consumer,Alberta,Edmonton,Canada
+C171,Customer 171,Corporate,Nova Scotia,Halifax,Canada
+C172,Customer 172,Consumer,Ontario,Toronto,Canada
+C173,Customer 173,Corporate,Manitoba,Winnipeg,Canada
+C174,Customer 174,Home Office,Alberta,Edmonton,Canada
+C175,Customer 175,Consumer,Ontario,Mississauga,Canada
+C176,Customer 176,Consumer,Alberta,Edmonton,Canada
+C177,Customer 177,Consumer,Ontario,Mississauga,Canada
+C178,Customer 178,Consumer,Manitoba,Winnipeg,Canada
+C179,Customer 179,Consumer,Saskatchewan,Regina,Canada
+C180,Customer 180,Consumer,British Columbia,Victoria,Canada

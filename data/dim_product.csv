@@ -1,0 +1,37 @@
+ProductID,ProductName,Category,Subcategory,UnitPrice,UnitCost
+P001,Laptop Pro 14,Technology,Devices,1299,850
+P002,Wireless Headphones,Technology,Audio,199,110
+P003,Smartphone X,Technology,Devices,899,560
+P004,Tablet 10in,Technology,Devices,449,280
+P005,Monitor 27in 4K,Technology,Displays,399,240
+P006,Mechanical Keyboard,Technology,Accessories,129,70
+P007,Wireless Mouse,Technology,Accessories,49,26
+P008,External SSD 1TB,Technology,Storage,139,85
+P009,Webcam HD,Technology,Accessories,89,48
+P010,Ergonomic Office Chair,Furniture,Furniture,349,210
+P011,Standing Desk,Furniture,Furniture,599,360
+P012,Bookshelf 5-Tier,Furniture,Furniture,179,105
+P013,Filing Cabinet,Furniture,Furniture,219,130
+P014,Conference Table,Furniture,Furniture,899,540
+P015,Desk Lamp LED,Furniture,Furniture,59,32
+P016,Office Sofa,Furniture,Furniture,749,450
+P017,Storage Cabinet,Furniture,Furniture,289,170
+P018,Meeting Chair Set,Furniture,Furniture,499,300
+P019,Printer Paper A4 (500),Office Supplies,Office Supplies,12,7
+P020,Ballpoint Pens (24),Office Supplies,Office Supplies,18,9
+P021,Stapler Heavy Duty,Office Supplies,Office Supplies,34,18
+P022,Notebook Pack,Office Supplies,Office Supplies,24,12
+P023,Desk Organizer,Office Supplies,Office Supplies,39,20
+P024,Whiteboard 120cm,Office Supplies,Office Supplies,119,68
+P025,File Folders (100),Office Supplies,Office Supplies,28,14
+P026,Toner Cartridge,Office Supplies,Office Supplies,89,52
+P027,Binder Set,Office Supplies,Office Supplies,44,22
+P028,Coffee Maker,Appliances,Appliances,129,75
+P029,Air Purifier,Appliances,Appliances,249,150
+P030,Electric Kettle,Appliances,Appliances,49,28
+P031,Blender Pro,Appliances,Appliances,179,105
+P032,Toaster 4-Slice,Appliances,Appliances,69,38
+P033,Vacuum Robot,Appliances,Appliances,399,240
+P034,Microwave Oven,Appliances,Appliances,189,112
+P035,Water Dispenser,Appliances,Appliances,159,95
+P036,Heater Portable,Appliances,Appliances,99,58
